@@ -1,0 +1,10 @@
+1. Create an New Env
+    conda create -p name python==version
+2. Activate the Env
+    conda activate name
+3. Initialize the Git
+    git init
+4. create an gitignore file in github repository then pull the code into the vs code
+5.create 2 files 
+    setup.py
+    requirements.txt
